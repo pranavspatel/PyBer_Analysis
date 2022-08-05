@@ -13,11 +13,11 @@ Our purpose is to create a multiple-line graph that shows the total weekly fares
 
 From the summary data frame we can say that there is a direct relation between the population of the city and the total number of rides which impacts the total number of drivers, total fare, and both averages. As the distance from the urban area increases the average fare per ride and per driver seems to increase. But, less drivers in rural areas may lead to a higher average fare per ride and driver, as prices increase when supply is low.
 
-
+image link: https://github.com/pranavspatel/PyBer_Analysis/blob/main/Analysis/fig%202.png
 
 From the Multi-line graph we can see that the average fare price is higher for the whole year in the urban area compared to the suburban and rural cities.
 
-
+multi-line graph : https://github.com/pranavspatel/PyBer_Analysis/blob/main/Analysis/Fig1.png
 
 
 ## Summary
